@@ -1,0 +1,12 @@
+/Users/akiichris/Projects/TaskList/TaskList/obj/Debug/netcoreapp3.1/TaskList.csprojAssemblyReference.cache
+/Users/akiichris/Projects/TaskList/TaskList/obj/Debug/netcoreapp3.1/TaskList.AssemblyInfoInputs.cache
+/Users/akiichris/Projects/TaskList/TaskList/obj/Debug/netcoreapp3.1/TaskList.AssemblyInfo.cs
+/Users/akiichris/Projects/TaskList/TaskList/obj/Debug/netcoreapp3.1/TaskList.csproj.CoreCompileInputs.cache
+/Users/akiichris/Projects/TaskList/TaskList/bin/Debug/netcoreapp3.1/TaskList.deps.json
+/Users/akiichris/Projects/TaskList/TaskList/bin/Debug/netcoreapp3.1/TaskList.runtimeconfig.json
+/Users/akiichris/Projects/TaskList/TaskList/bin/Debug/netcoreapp3.1/TaskList.runtimeconfig.dev.json
+/Users/akiichris/Projects/TaskList/TaskList/bin/Debug/netcoreapp3.1/TaskList.dll
+/Users/akiichris/Projects/TaskList/TaskList/bin/Debug/netcoreapp3.1/TaskList.pdb
+/Users/akiichris/Projects/TaskList/TaskList/obj/Debug/netcoreapp3.1/TaskList.dll
+/Users/akiichris/Projects/TaskList/TaskList/obj/Debug/netcoreapp3.1/TaskList.pdb
+/Users/akiichris/Projects/TaskList/TaskList/obj/Debug/netcoreapp3.1/TaskList.genruntimeconfig.cache
